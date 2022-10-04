@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pushpamtfs@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PtX3pTtckG1ZirlOy1xZA9iMOnM-F120/view?usp=sharing](https://drive.google.com/file/d/1PtX3pTtckG1ZirlOy1xZA9iMOnM-F120/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PtX3pTtckG1ZirlOy1xZA9iMOnM-F120/view?usp=sharing](https://drive.google.com/file/d/1L92bc8r1tuYHO7YdHXQGi-uHnPE4z3Xv/view?usp=sharing)
 
 - ⚡ Fun fact **Bug Fighter!!**
 
