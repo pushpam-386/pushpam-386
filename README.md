@@ -5,13 +5,13 @@
 
 - 🔭 I worked on [Cloned Skinstore.com](https://github.com/NarendraKumarSwami/construct_week01)
 
-- 🌱 I’m currently learning **Spring, Cloud-computing, AWS and MongoDB**
+- 🌱 I’m currently learning **Spring, Cloud-computing, SpringBoot, Jpa, Maven AWS and MongoDB**
 
 - 👯 I’m looking to collaborate on **e-Commerce System implementation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 💬 Ask me about **Core-Java, SQL, HTML/CSS, JS, Spring and DSA**
+- 💬 Ask me about **Core-Java, SpringBoot, Jpa, SQL, HTML/CSS, JavaScript, AWS, Spring and DSA**
 
 - 📫 How to reach me **pushpamtfs@gmail.com**
 
