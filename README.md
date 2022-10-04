@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 💬 Ask me about **Core-Java, SpringBoot, Jpa, SQL, HTML/CSS, JavaScript, AWS, Spring and DSA**
+- 💬 Ask me about **Core-Java, SpringBoot, Jpa, SQL, HTML/CSS, JavaScript, AWS, Spring, Maven, Dao,  and DSA**
 
 - 📫 How to reach me **pushpamtfs@gmail.com**
 
