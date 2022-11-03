@@ -29,8 +29,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="center" width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpam-386&show_icons=true&locale=en&layout=compact" alt="pushpam-386" /></p>
-<p>&nbsp;<img align="center" width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=pushpam-386&show_icons=true&locale=en" alt="pushpam-386" /></p>
+<p><img align="center" width="750" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpam-386&show_icons=true&locale=en&layout=compact" alt="pushpam-386" /></p>
+<p>&nbsp;<img align="center" width="750" height="170" src="https://github-readme-stats.vercel.app/api?username=pushpam-386&show_icons=true&locale=en" alt="pushpam-386" /></p>
 
-<p><img align="center" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpam-386&" alt="pushpam-386" /></p>
+<p><img align="center" width="750" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpam-386&" alt="pushpam-386" /></p>
 
