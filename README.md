@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushpam Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/002/825/134/non_2x/man-sitting-icy-the-table-with-laptop-vector.jpg">
+<img align="right" alt="coding" width="400" height="550" src="https://static.vecteezy.com/system/resources/previews/002/825/134/non_2x/man-sitting-icy-the-table-with-laptop-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpam-386&label=Profile%20views&color=0e75b6&style=flat" alt="pushpam-386" /> </p>
 
 - 🔭 I worked on [Cloned Skinstore.com](https://github.com/NarendraKumarSwami/construct_week01)
@@ -30,9 +30,7 @@
 <h3 align="left">Support:</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpam-386&show_icons=true&locale=en&layout=compact" alt="pushpam-386" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpam-386&show_icons=true&locale=en" alt="pushpam-386" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pushpam-386&show_icons=true&locale=en" alt="pushpam-386" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpam-386&" alt="pushpam-386" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpam-386&show_icons=true&locale=en&layout=compact" alt="pushpam-386" /></p>
