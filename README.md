@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpam Kumar</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A dedicated Backend Developer</h3>
 <img align="right" alt="coding" width="400" height="500" src="https://static.vecteezy.com/system/resources/previews/002/825/134/non_2x/man-sitting-icy-the-table-with-laptop-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpam-386&label=Profile%20views&color=0e75b6&style=flat" alt="pushpam-386" /> </p>
 
