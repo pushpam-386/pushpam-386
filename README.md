@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pushpam Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 <img align="right" alt="coding" width="400" height="500" src="https://static.vecteezy.com/system/resources/previews/002/825/134/non_2x/man-sitting-icy-the-table-with-laptop-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpam-386&label=Profile%20views&color=0e75b6&style=flat" alt="pushpam-386" /> </p>
 
-- 🔭 I worked on [Cloned Skinstore.com](https://github.com/NarendraKumarSwami/construct_week01)
+- 🔭 I worked on [Trip Management System](https://github.com/mrFarooque/Trip-Management-System), [Cloned Skinstore.com](https://github.com/NarendraKumarSwami/construct_week01), worked on shopify to make my own store.
 
-- 🌱 I’m currently learning **Spring, Cloud-computing, SpringBoot, Jpa, Maven, AWS and MongoDB**
+- 🌱 I’m currently learning **Spring, Cloud-computing, SpringBoot, Jpa, Maven, AWS, shopify and MongoDB**
 
 - 👯 I’m looking to collaborate on **e-Commerce System implementation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/) -->
 
-- 💬 Ask me about **Core-Java, SpringBoot, Jpa, SQL, HTML/CSS, JavaScript, AWS, Spring, Maven, Dao,  and DSA**
+- 💬 Ask me about **Core-Java, SpringBoot, Jpa, SQL, HTML/CSS, JavaScript, AWS, Spring, Maven, Dao, and DSA**
 
 - 📫 How to reach me **pushpamtfs@gmail.com**
 
