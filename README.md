@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p>
-  <a href="https://linkedin.com/in/pushpamtfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpamtfs" height="60" width="50" /></a>
+  <a href="https://linkedin.com/in/pushpamtfs" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" alt="pushpamtfs" height="60" width="50" /></a>
   <a href="https://drive.google.com/file/d/1CrbfTXuV0cJY1CKQS7585TDKT7gGS2uV/view" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NPnzus952FibqPjjjYQIe2u5d5kPCYs0Fw&usqp=CAU" alt="pushpamtfs" height="90" width="90" /></a>
   <a href="https://pushpam-386.github.io/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZ0gLSAb28PTTuxrTMjhQeunV4LZli7x_1IHGUxD2U493GtjKJWXthwR-4j1xRfhTV2E&usqp=CAU" alt="pushpamtfs" height="70" width="70" /></a>
 </p>
